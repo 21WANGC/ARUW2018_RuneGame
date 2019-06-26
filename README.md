@@ -1,1 +1,1 @@
-# ARUW2018_RuneGame
+# Rune Game for the 2018 DJI RoboMaster Competition
